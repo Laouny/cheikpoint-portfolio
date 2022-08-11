@@ -348,3 +348,20 @@ btns{
     margin: 30px auto !important;
 }
 
+footer{
+    justify-content: space-between;
+    padding: 10px 70px;
+    background: linear-gradient(cyan , cyan);
+    font-size: 20px;
+    font-weight: 600;
+    color: black;
+}
+
+footer .social i{
+    font-size: 25px;
+    margin: 0 3px;
+    cursor: pointer;
+}
+.social i:hover{
+    color:white;
+}
